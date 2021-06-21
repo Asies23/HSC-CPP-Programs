@@ -1,8 +1,8 @@
-
 # HSC C++ Programs
 
-This repository includes the Programs that are taught in 
+This repository includes the Programs that are taught in
 HSC Computer Science.
+
 ## Run Locally
 
 Clone the project
@@ -23,4 +23,6 @@ Compile and run the required program
   g++ ProgramName.cpp -o ProgramName && ProgramName
 ```
 
-  
+## License
+
+[MIT](LICENSE)
