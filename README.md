@@ -8,7 +8,7 @@ HSC Computer Science.
 Clone the project
 
 ```cmd
-  git clone https://github.com/Asies23/HSC-CPP-Programs
+  git clone https://github.com/Asies23/HSC-CPP-Programs.git
 ```
 
 Go to the project directory
