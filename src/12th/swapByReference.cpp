@@ -23,8 +23,35 @@ void swap(int *a, int *b)
     *b = t;
 }
 
-// Output:-
-//   Enter any two numbers
-//   2
-//   6
-//   The Swapped numbers are 6 & 2
+/*
+// Same Program for Turbo C++
+
+#include <iostream.h>
+#include <conio.h>
+
+void swap(int *, int *);
+
+void main()
+{
+    int x, y;
+    cout << "Enter any two numbers \n";
+    cin >> x >> y;
+    swap(&x, &y);
+    cout << "The Swapped numbers are " << x << " & " << y;
+}
+
+void swap(int *a, int *b)
+{
+    int t = *a;
+    *a = *b;
+    *b = t;
+}
+*/
+
+/* 
+Output:-
+  Enter any two numbers
+  2
+  6
+  The Swapped numbers are 6 & 2 
+*/
